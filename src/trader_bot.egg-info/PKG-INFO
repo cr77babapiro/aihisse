@@ -1,0 +1,30 @@
+Metadata-Version: 2.4
+Name: trader-bot
+Version: 0.1.0
+Summary: Akıllı Hisse Senedi Alım-Satım Botu – Cursor Ready
+Author: Quant AI
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pydantic>=2.6
+Requires-Dist: pydantic-settings>=2.5
+Requires-Dist: typer[all]>=0.12
+Requires-Dist: yfinance>=0.2.50
+Requires-Dist: pandas>=2.2
+Requires-Dist: numpy>=1.26
+Requires-Dist: plotly>=5.24
+Requires-Dist: streamlit>=1.39
+Requires-Dist: scikit-learn>=1.5
+Requires-Dist: torch>=2.4
+Requires-Dist: transformers>=4.44
+Requires-Dist: beautifulsoup4>=4.12
+Requires-Dist: requests>=2.32
+Requires-Dist: python-dotenv>=1.0
+Requires-Dist: pandas-ta>=0.3.14b0
+Requires-Dist: matplotlib>=3.9
+Requires-Dist: alpaca-trade-api>=3.2
+Requires-Dist: ibapi>=9.81.1.post1
+Dynamic: license-file
+
+# aihisse
+yapaz zeka entegreli hisse yardım botu
